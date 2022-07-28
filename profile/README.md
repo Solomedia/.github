@@ -2,11 +2,10 @@
 
 <!--
 
-**Here are some ideas to get you started:**
+SMG is an e-Commerce Development Agency. We help Shopify and Shopify+ businesses create, grow & optimize their online stores.
+Our agency employs happy interesting people and the byproduct of that is happy and interesting customers. 
+Every day we work with quirky founders, data-driven Marketers, and pixel-specific designers; what a dream come true 😂. 
+No, but seriously, it's really exciting to see the companies that believed in us in 2017 grow into these amazing businesses.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
